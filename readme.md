@@ -60,8 +60,7 @@ I'm a **Computer Engineering student** passionate about building products that s
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=DhirajK24&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DhirajK24&theme=github-dark&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=DhirajK24&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </div>
 <br/>
 <div align="center">
