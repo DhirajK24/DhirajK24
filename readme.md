@@ -60,12 +60,12 @@ I'm a **Computer Engineering student** passionate about building products that s
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DhirajK24&show_icons=true&theme=transparent&hide_border=true&bg_color=0D1117&title_color=009688&icon_color=009688&text_color=c9d1d9" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DhirajK24&theme=transparent&hide_border=true&background=0D1117&ring=009688&fire=009688&currStreakLabel=009688" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DhirajK24&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DhirajK24&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DhirajK24&theme=transparent&hide_border=true&bg_color=0D1117&color=009688&line=009688&point=FFFFFF" alt="Activity Graph" width="98%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DhirajK24&theme=tokyonight&hide_border=true" alt="Activity Graph" width="98%" />
 </div>
 
 <br/>
