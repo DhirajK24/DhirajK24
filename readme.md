@@ -24,7 +24,7 @@ I'm a **Computer Engineering student** passionate about building products that s
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,ts,sql,react,nextjs,tailwind,nodejs,fastapi,express,postgres,mysql,redis,git,docker,linux,vercel,aws,kubernetes&perline=10" />
+    <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,tailwind,nodejs,fastapi,express,postgres,mysql,redis,git,docker,linux,vercel,aws,kubernetes&perline=9" />
   </a>
 </div>
 
